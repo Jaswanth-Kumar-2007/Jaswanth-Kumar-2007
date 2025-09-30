@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jaswanth%20Kumar&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 </p>
 
----
 # Hi ! Jaswanth Kumar here 👋...
 
 ![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels](https://github.com/user-attachments/assets/a4e0e85c-67b7-4b95-beb5-f367a598d88f)
