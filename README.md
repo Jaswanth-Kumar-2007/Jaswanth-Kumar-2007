@@ -4,6 +4,10 @@
 </p>
 
 ---
+# Hi ! Jaswanth Kumar here 👋...
+
+![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels](https://github.com/user-attachments/assets/a4e0e85c-67b7-4b95-beb5-f367a598d88f)
+---
 
 ## ✨ About Me  
 💡 Passionate about **Python Development, AI Tools, and Open Source Develop**  
