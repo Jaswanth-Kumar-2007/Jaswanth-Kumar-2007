@@ -8,6 +8,10 @@
 ![fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels](https://github.com/user-attachments/assets/a4e0e85c-67b7-4b95-beb5-f367a598d88f)
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jaswanth-Kumar-2007&label=Profile%20views&color=0e75b6&style=flat" alt="Jaswanth-Kumar-2007" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jaswanth-Kumar-2007" alt="Jaswanth-Kumar-2007" /></a> </p>
+
 ## ✨ About Me  
 💡 Passionate about **Python Development, AI Tools, and Open Source Develop**  
 🌱 Currently learning **Python & Java & Machine Learning**  
