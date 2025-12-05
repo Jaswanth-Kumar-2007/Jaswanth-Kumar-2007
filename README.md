@@ -61,6 +61,9 @@
   <a href="https://linkedin.com/in/jaswanth-kumar-kamireddi-86ba09373" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://instagram.com/kjk._.06" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
   <a href="https://github.com/Jaswanth-Kumar-2007">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
