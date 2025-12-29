@@ -35,9 +35,7 @@
 ---
 
 ## 🔥 GitHub Streak  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaswanth-Kumar-2007&theme=highcontrast"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=Jaswanth-Kumar-2007&theme=tokyonight&hide_border=true" alt="Jaswanth-Kumar-2007's GitHub Stats" />
 
 
 ---
