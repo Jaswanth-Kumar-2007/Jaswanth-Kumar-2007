@@ -26,11 +26,9 @@
 
 ---
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaswanth-Kumar-2007&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaswanth-Kumar-2007&layout=compact&theme=tokyonight" height="165"/>
-</p>
+## Profile Views
+
+<img src="https://count.getloli.com/@Jaswanth-Kumar-2007?name=Jaswanth-Kumar-2007?theme=gelboor&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1" width="500" style="max-width: 100%;" />
 
 ---
 
