@@ -26,6 +26,13 @@
 
 ---
 
+## Git City
+
+<a href="https://www.thegitcity.com/?ref=jaswanth-kumar-2007">
+  <img src="https://raw.githubusercontent.com/Jaswanth-Kumar-2007/Jaswanth-Kumar-2007/refs/heads/main/gitcity-jaswanth-kumar-2007-landscape.png">
+</a>
+
+
 ## Profile Views
 
 <img src="https://count.getloli.com/@Jaswanth-Kumar-2007?name=Jaswanth-Kumar-2007?theme=gelboor&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1" width="500" style="max-width: 100%;" />
