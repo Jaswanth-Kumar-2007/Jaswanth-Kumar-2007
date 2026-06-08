@@ -13,9 +13,9 @@
 
 ## ✨ About Me  
 💡 Passionate about **Python Development, AI Tools, and Open Source Develop**  
-🌱 Currently learning **Python & Java & Machine Learning**  
-⚡ Fun fact: I debug faster with **coffee ☕ + music 🎶**  
-🎯 Goal: Build projects that make **Tech Fun Again 🚀**  
+🌱 Currently learning **Python & CP & Machine Learning**  
+⚡ Fun fact: I debug faster with **Laptop 💻 + music 🎶**  
+🎯 Goal: Build projects that make **New World 🚀**  
 
 ---
 
